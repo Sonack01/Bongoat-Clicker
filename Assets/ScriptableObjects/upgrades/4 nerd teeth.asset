@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81eca7c12cc547a43bbb203b738ebaae, type: 3}
+  m_Name: 4 nerd teeth
+  m_EditorClassIdentifier: 
+  artwork: {fileID: 21300000, guid: befd791db82a33a41b003d82885ab823, type: 3}
+  SpriteOnBongoat: {fileID: 21300000, guid: b2c3808ac2b251845aa0ffca23630fed, type: 3}
+  UpgradeName: nerd teeth
+  cost: 15000
+  multiplyer: 3
+  Disciption: Well technically

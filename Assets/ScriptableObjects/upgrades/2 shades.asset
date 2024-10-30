@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81eca7c12cc547a43bbb203b738ebaae, type: 3}
+  m_Name: 2 shades
+  m_EditorClassIdentifier: 
+  artwork: {fileID: 21300000, guid: 0f8d3b5a0fff36044b326cba26ca4a0e, type: 3}
+  SpriteOnBongoat: {fileID: 21300000, guid: 88ed33da4bdfe8a4b9c52e052a7dd71d, type: 3}
+  UpgradeName: Cool Shades
+  cost: 1000
+  multiplyer: 2
+  Disciption: With these on hehas the swagger of snoopdog
